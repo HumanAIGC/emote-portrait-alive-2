@@ -1,1 +1,1 @@
-https://humanaigc.github.io/emote-portrait-alive/
+This the webpage for EMO2.
